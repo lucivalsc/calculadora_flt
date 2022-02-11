@@ -1,4 +1,4 @@
-import 'package:calculadora/principal_view.dart';
+import 'package:calculadora/view/calculadora_view.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
         ),
       ),
-      home: Principal(),
+      home: const Principal(),
     );
   }
 }

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:calculadora/botao.dart';
+import 'package:calculadora/data/botao.dart';
 
 class GrupoBotao extends StatelessWidget {
   final Function(String) funcao;

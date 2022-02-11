@@ -1,6 +1,6 @@
-import 'package:calculadora/calculadora.dart';
-import 'package:calculadora/grupo_botao.dart';
-import 'package:calculadora/tela.dart';
+import 'package:calculadora/controller/calculadora_controller.dart';
+import 'package:calculadora/data/grupo_botao.dart';
+import 'package:calculadora/data/tela.dart';
 import 'package:flutter/material.dart';
 
 class Principal extends StatefulWidget {
